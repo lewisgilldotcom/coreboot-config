@@ -1,0 +1,1 @@
+This directory contains the proprietary blobs nessecary to Coreboot the Thinkpad t440p 
