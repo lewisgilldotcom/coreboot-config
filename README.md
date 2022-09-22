@@ -14,6 +14,6 @@ sudo pacman -S base-devel curl git gcc-ada ncurses zlib nasm sharutils unzip fla
 Please note this will fail to compile with anything other than GCC10. I recommend using Debian 11 as GCC10 is the default cross compilier
 
 # Installation
-Follow the guide [here]([URL](https://blog.0xcb.dev/lenovo-t440p-coreboot/) 'Lenovo T440p Coreboot') 
+Follow the guide [here](https://blog.0xcb.dev/lenovo-t440p-coreboot/ 'Lenovo T440p Coreboot') 
 
 Populate .config through running make nconfig, savings through F6 and then quitting through F9
